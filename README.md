@@ -2,7 +2,8 @@
 
 > 列举日常工作、生活使用到的应用，以及这些应用的配置和使用方法
 
-![my-awesome-mac-os](http://p68i1i2cw.bkt.clouddn.com/my-awesome-mac/dock.png)
+![my-awesome-mac-os](./imgs/launchpad.png)
+
 
 ## 目录
 
