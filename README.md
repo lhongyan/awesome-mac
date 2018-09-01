@@ -180,19 +180,19 @@
 
 #### CmdTab
 
-#### Go2Shell
+#### [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?l=en&mt=12) - Opens a terminal window to the current directory in Finder
 
-#### Moom
+#### [Moom](https://manytricks.com/moom/) - Move and zoom windows
 
-#### Timing
+#### [Timing](https://timingapp.com) - Time Tracking Sucks
 
-#### Popclip
+#### [Popclip](https://pilotmoon.com/popclip/) - PopClip appers when you select text with your mouse on your Mac
 
-#### 1Password
+#### [1Password](https://1password.com) - Go ahead. Forget your passwords
 
-#### Default Folder X
+#### [Default Folder X](https://www.stclairsoft.com) - 
 
-#### iTerm
+#### [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm
 
 ---
 ### 阅读写作
