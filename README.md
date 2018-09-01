@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/language-中文-orange.svg)
 ![apps](https://img.shields.io/badge/apps-81-yellowgreen.svg)
 
-> 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法，不包含mac os 自带的应用
+> 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法。不包含mac os 自带的应用，但是我也会使用它们，例如Timemachine、活动监视器等。
 
 ![my-awesome-mac-os](./imgs/launchpad.png)
 
@@ -15,7 +15,6 @@
 * 应用
     * 系统管理
     * 系统实用工具
-    * 办公软件
     * 邮件软件
     * 社交通讯
     * 影音娱乐
@@ -49,42 +48,33 @@
 ---
 ### 系统管理
 
-#### iStat Menus
+#### [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monition for your menubar
 
-#### Bartender 3
+#### [Bartender 3](https://www.macbartender.com) - Organize your menu bar icons
 
-#### CLeanMyMac 3
+#### [CLeanMyMac 3](https://cleanmymac.com) - Cleaner.Faster.More productive
 
-#### Gemini 2
+#### [Gemini 2](https://macpaw.com/gemini) - The intelligent duplicate file finder
 
-#### iHosts
+#### [iHosts](https://github.com/toolinbox/iHosts) - iHosts is perfect for editing /etc/hosts on Mac OS X
 
-#### SwitchHosts!
+#### [SwitchHosts!](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
-#### Cakebrew
+#### [Cakebrew](https://www.cakebrew.com) - The Mac App for Homebrew
 
 ---
 ### 系统实用工具
 
-#### Lantern
+#### [Lantern](https://github.com/getlantern/lantern) - Science and the Internet
 
-#### BetterZip
-
----
-### 办公软件
-
-#### Microsoft PowerPoint
-
-#### Microsoft Word
-
-#### Microsoft Excel
+#### [BetterZip 4](https://www.macitbetter.com) - the next generation of archiving
 
 ---
 ### 邮件软件
 
-#### Spark
+#### [Spark](https://sparkmailapp.com) - The Future of Email
 
-#### Thunderbird
+#### [Thunderbird](https://www.thunderbird.net/zh-CN/) - Mozilla Thunderbird是由Mozilla浏览器的邮件功能部件所改造的邮件工具
 
 ---
 ### 社交通信
@@ -93,9 +83,9 @@
 
 #### 微信
 
-#### Tweetbot
+#### [Tweetbot](https://tapbots.com/tweetbot/mac/) - Tweetbot is an award-winnig, full-featured Twitter client for the Mac
 
-#### Maipo
+#### [Maipo](http://weiboformac.sinaapp.com) - Maipo for Weibo
 
 ---
 ### 影音娱乐
@@ -104,7 +94,7 @@
 
 #### 爱奇艺
 
-#### IINA
+#### [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS
 
 #### 网易云音乐
 
@@ -117,30 +107,28 @@
 
 #### 微信开发者工具
 
-#### Visual Studio Code
+#### [Visual Studio Code](https://code.visualstudio.com) - Code editing. Redefined. Free. Open source. Runs everywhere
 
-#### CodeRunner
+#### [CodeRunner 2](https://coderunnerapp.com) - An advanced, highly flexible, and easy-to-use **programming editor for your Mac**
 
 ---
 ### 开发辅助工具
 
-#### TextLab
+#### [TextLab](http://textlab-app.com) - Developer's Swiss Army Knife
 
 #### Google Chrome
 
-#### Reggy
-
-#### DiffMerge
-
-#### SnippetsLab
-
-#### Understand
-
-#### Dash
-
 #### Firefox Developer Edition
 
-#### ndm
+#### [Reggy](http://reggyapp.com) - the open-source OS X regular expression tester/viewer
+
+#### [DiffMerge](http://www.sourcegear.com/diffmerge/) - An application to visually compare and merge files on Windows, OS X and Linux
+
+#### [SnippetsLab](http://www.renfei.org/snippets-lab/) - An easy-to-use code snippets manager
+
+#### [Dash](https://kapeli.com/dash) - Indispensable masterpiece for developers
+
+#### [ndm](https://github.com/720kb/ndm) - npm desktop manager
 
 ---
 ### 数据库管理工具
@@ -154,27 +142,27 @@
 ---
 ### 文本编辑
 
-#### Macvim
+#### [Macvim](http://macvim-dev.github.io/macvim/) - Vim - the text editor - for Mac OS X
 
 #### Textmate
 
-#### Sublime Text 3
+#### [Sublime Text 3](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose
 
 ---
 ### 服务器管理
 
 #### Parallels Desktop
 
-#### Termius
+#### [Termius](http://www.termius.com) - A portable server management system that works for you in any situation
 
-#### Filezilla
+#### [Filezilla](https://filezilla-project.org) - The free FTP solution
 
 #### Docker
 
 ---
 ### 版本控制
 
-#### Tower
+#### [Tower](https://www.git-tower.com) - Build Better Software
 
 #### Cornerstone
 
