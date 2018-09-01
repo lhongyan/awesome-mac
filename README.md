@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/language-中文-orange.svg)
 ![apps](https://img.shields.io/badge/apps-87-yellowgreen.svg)
 
-> 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法
+> 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法，不包含mac os 自带的应用
 
 ![my-awesome-mac-os](./imgs/launchpad.png)
 
