@@ -145,12 +145,6 @@
 ---
 ### 开发工具
 
-#### Intellij IDEA
-
-#### PyCharm
-
-#### 微信开发者工具
-
 #### [Visual Studio Code](https://code.visualstudio.com) - Code editing. Redefined. Free. Open source. Runs everywhere
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
