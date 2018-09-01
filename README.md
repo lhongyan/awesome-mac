@@ -13,11 +13,10 @@
 ## 目录
 
 * 应用
-    * 系统工具
     * 系统管理
     * 系统实用工具
     * 办公软件
-    * 邮件
+    * 邮件软件
     * 社交通讯
     * 影音娱乐
     * 开发工具
@@ -38,24 +37,19 @@
     * 网络存储
 
 * 命令行工具
+    * ccat
+    * git
+    * httpie
+    * m-cli
     * readline
     * wget
-    * ccat
     * wifi-password
-    * httpie
-    * git
-    * m-cli
 
 ## 应用
-
-### 系统工具
-
-> 包含Mac OS 系统自带的APP
-
+---
 ### 系统管理
 
 #### iStat Menus
-
 
 #### Bartender 3
 
@@ -69,13 +63,14 @@
 
 #### Cakebrew
 
-
+---
 ### 系统实用工具
 
 #### Lantern
 
 #### BetterZip
 
+---
 ### 办公软件
 
 #### Microsoft PowerPoint
@@ -84,12 +79,14 @@
 
 #### Microsoft Excel
 
-### 邮件
+---
+### 邮件软件
 
 #### Spark
 
 #### Thunderbird
 
+---
 ### 社交通信
 
 #### QQ
@@ -100,6 +97,7 @@
 
 #### Maipo
 
+---
 ### 影音娱乐
 
 #### 腾讯视频
@@ -110,6 +108,7 @@
 
 #### 网易云音乐
 
+---
 ### 开发工具
 
 #### Intellij IDEA
@@ -122,6 +121,7 @@
 
 #### CodeRunner
 
+---
 ### 开发辅助工具
 
 #### TextLab
@@ -142,6 +142,7 @@
 
 #### ndm
 
+---
 ### 数据库管理工具
 
 #### DataGrip
@@ -150,6 +151,7 @@
 
 #### MongoDB Compass
 
+---
 ### 文本编辑
 
 #### Macvim
@@ -158,6 +160,7 @@
 
 #### Sublime Text 3
 
+---
 ### 服务器管理
 
 #### Parallels Desktop
@@ -168,18 +171,21 @@
 
 #### Docker
 
+---
 ### 版本控制
 
 #### Tower
 
 #### Cornerstone
 
+---
 ### 网络工具
 
 #### Postman
 
 #### SoapUI
 
+---
 ### 生产力工具
 
 #### Alfred 3
@@ -200,6 +206,7 @@
 
 #### iTerm
 
+---
 ### 阅读写作
 
 #### Kindle
@@ -214,24 +221,28 @@
 
 #### MarkEditor
 
+---
 ### 思维脑图
 
 #### 幕布
 
 #### MindMater
 
+---
 ### 项目管理
 
 #### Trello
 
 #### OmniPlan
 
+---
 ### 效率日程
 
 #### OmniFocus
 
 #### Fantastical 2
 
+---
 ### 截图录屏
 
 #### Snip
@@ -240,6 +251,7 @@
 
 #### ScreenFlow
 
+---
 ### 图片处理
 
 #### Eagle
@@ -248,12 +260,14 @@
 
 #### IconJar
 
+---
 ### 下载工具
 
 #### Free Download Manager
 
 #### 迅雷
 
+---
 ### 网络存储
 
 #### 坚果云
