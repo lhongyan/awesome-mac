@@ -11,13 +11,17 @@
 
 ## 说明
 
- 免费或个人免费
+![free](https://img.shields.io/badge/money-free-green.svg) 
+
+* 免费或个人免费
 
 ![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
 
 * 部分功能免费，高级功能收费
 
-<img src="imgs/pay.svg" align="absmiddle" height="25" width="25" /> 付费
+![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
+* 付费
 
 
 ## 目录
@@ -55,6 +59,7 @@
     * wifi-password
 
 ## 应用
+
 
 ### 系统管理
 
