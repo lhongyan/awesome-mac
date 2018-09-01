@@ -84,12 +84,6 @@
 
 #### Microsoft Excel
 
-#### Numbers 表格
-
-#### Keynote 讲演
-
-#### Pages 文稿
-
 ### 邮件
 
 #### Spark
