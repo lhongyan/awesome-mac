@@ -28,7 +28,7 @@
 
 * 应用
     * 系统管理
-    * 系统实用工具
+    * 实用工具
     * 邮件软件
     * 社交通讯
     * 影音娱乐
@@ -93,7 +93,7 @@
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
 ---
-### 系统实用工具
+### 实用工具
 
 #### [Lantern](https://github.com/getlantern/lantern) - Science and the Internet
 
