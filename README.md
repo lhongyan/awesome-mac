@@ -176,7 +176,7 @@
 ---
 ### 生产力工具
 
-#### Alfred 3
+#### [Alfred 3](https://www.alfredapp.com) - Alfred is an award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
 
 #### CmdTab
 
