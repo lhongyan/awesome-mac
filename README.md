@@ -97,6 +97,8 @@
 
 #### [Lantern](https://github.com/getlantern/lantern) - Science and the Internet
 
+![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
+
 #### [BetterZip 4](https://www.macitbetter.com) - the next generation of archiving
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
