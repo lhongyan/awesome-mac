@@ -9,7 +9,7 @@
 
 ![my-awesome-mac-os](./imgs/launchpad.png)
 
-说明
+## 说明
 
 ![free](https://img.shields.io/badge/money-free-green.svg) 
 
