@@ -5,7 +5,7 @@
 ![language](https://img.shields.io/badge/language-中文-orange.svg)
 ![apps](https://img.shields.io/badge/apps-87-yellowgreen.svg)
 
-> 列举在日常工作、生活中使用到的应用，还包括应用的配置和使用方法
+> 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法
 
 ![my-awesome-mac-os](./imgs/launchpad.png)
 
@@ -17,7 +17,7 @@
     * 系统工具
     * 管理工具
     * 实用工具
-    * 办公软件
+    * 办公软件
     * 邮件
     * 社交通讯
     * 影音娱乐
@@ -50,4 +50,214 @@
 #### iStat Menus
 
 
+#### Bartender 3
+
+#### CLeanMyMac 3
+
+#### Gemini 2
+
+#### iHosts
+
+#### SwitchHosts!
+
+#### Cakebrew
+
+
+### 实用工具
+
+#### Lantern
+
+#### BetterZip
+
+### 办公软件
+
+#### Microsoft PowerPoint
+
+#### Microsoft Word
+
+#### Microsoft Excel
+
+#### Numbers 表格
+
+#### Keynote 讲演
+
+#### Pages 文稿
+
+### 邮件
+
+#### Spark
+
+#### 邮件
+
+#### Thunderbird
+
+### 社交通信
+
+#### QQ
+
+#### 微信
+
+#### Tweetbot
+
+#### Maipo
+
+### 影音娱乐
+
+#### 腾讯视频
+
+#### 爱奇艺
+
+#### IINA
+
+#### 网易云音乐
+
+### 开发工具
+
+#### Intellij IDEA
+
+#### PyCharm
+
+#### 微信开发者工具
+
+#### Visual Studio Code
+
+#### CodeRunner
+
+### 数据库管理工具
+
+#### DataGrip
+
+#### Medis
+
+#### MongoDB Compass
+
+### 开发辅助工具
+
+#### TextLab
+
+#### Google Chrome
+
+#### Reggy
+
+#### DiffMerge
+
+#### SnippetsLab
+
+#### Understand
+
+#### Dash
+
+#### Firefox Developer Edition
+
+#### ndm
+
+### 文本编辑
+
+#### Macvim
+
+#### Textmate
+
+#### Sublime Text 3
+
+### 服务器管理
+
+#### Parallels Desktop
+
+#### Termius
+
+#### Filezilla
+
+#### Docker
+
+### 版本控制
+
+#### Tower
+
+#### Cornerstone
+
+### 网络工具
+
+#### Postman
+
+#### SoapUI
+
+### 生产力工具
+
+#### Alfred 3
+
+#### CmdTab
+
+#### Go2Shell
+
+#### Moom
+
+#### Timing
+
+#### Popclip
+
+#### 1Password
+
+#### Default Folder X
+
+#### iTerm
+
+### 阅读和写作
+
+#### Kindle
+
+#### BookReader
+
+#### Reeder
+
+#### PDF Expert
+
+#### 有道云笔记
+
+#### MarkEditor
+
+### 思维脑图
+
+#### 幕布
+
+#### MindMater
+
+### 项目管理
+
+#### Trello
+
+#### OmniPlan
+
+### 效率日程
+
+#### OmniFocus
+
+#### Fantastical 2
+
+### 截图和录屏
+
+#### Snip
+
+#### Kap
+
+#### ScreenFlow
+
+### 图片处理
+
+#### Eagle
+
+#### Zoommy
+
+#### IconJar
+
+### 下载工具
+
+#### Free Download Manager
+
+#### 迅雷
+
+### 网络存储
+
+#### 坚果云
+
+#### 百度网盘
 
