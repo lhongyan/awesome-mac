@@ -21,7 +21,7 @@
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-* 付费
+* 收费
 
 
 ## 目录
@@ -59,7 +59,6 @@
     * wifi-password
 
 ## 应用
-
 
 ### 系统管理
 
@@ -392,3 +391,20 @@
 #### 百度网盘
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
+
+
+## 命令行工具
+
+* ccat
+
+* exa
+
+* httpie
+
+* m-cli
+
+* readline
+
+* wget
+
+* wifi-password
