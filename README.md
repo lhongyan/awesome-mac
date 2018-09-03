@@ -245,15 +245,17 @@
 ---
 ### 生产力工具
 
-#### [Alfred 3](https://www.alfredapp.com) - An award-winning app for Mac OS X which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
+#### [Alfred 3](https://www.alfredapp.com) - An award-winning app for Mac OS X which is more productive with custom actions to control your Mac.
 
 ![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
 
-#### CmdTab
+#### [CmdTab](http://www.yingdev.com/projects/cmdtap) - 任务切换器增强 for Mac
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
 #### [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?l=en&mt=12) - Opens a terminal window to the current directory in Finder
+
+![free](https://img.shields.io/badge/money-free-green.svg)
 
 #### [Moom](https://manytricks.com/moom/) - Move and zoom windows
 
@@ -278,6 +280,10 @@
 #### [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
+
+#### [SmoothScroll](https://www.smoothscroll.net/mac/) - SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling
+
+![pay](https://img.shields.io/badge/money-pay-red.svg)
 
 ---
 ### 阅读写作
@@ -309,7 +315,7 @@
 ---
 ### 思维脑图
 
-#### 幕布
+#### [幕布](https://mubu.com) - 极简大纲笔记 | 一键生成思维导图 
 
 ![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
 
@@ -340,11 +346,11 @@
 ---
 ### 截图录屏
 
-#### Snip
+#### [Snip](http://snip.qq.com) - 简单高效的截图工具，支持滚动截图
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### Kap
+#### [Kap](https://getkap.co) - An open-source screen recorder built with web technology
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
@@ -370,7 +376,7 @@
 ---
 ### 下载工具
 
-#### Free Download Manager
+#### [Free Download Manager](https://www.freedownloadmanager.org) - It is a powerful modern download accelerator and organizer for Windows and Mac
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
