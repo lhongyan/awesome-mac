@@ -233,11 +233,11 @@
 ---
 ### 网络工具
 
-#### Postman
+#### [Postman](https://www.getpostman.com/) - Developers use Postman to build modern software for the API-first world
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### SoapUI
+#### [SoapUI](https://www.soapui.org/) - The Most Advanced REST & SOAP Testing Tool in the World
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
@@ -291,23 +291,23 @@
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### BookReader
+#### [BookReader](https://icecreamapps.com/Ebook-Reader/) - one of the best EPUB readers
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### Reeder
+#### [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler etc.
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### PDF Expert
+#### [PDF Expert](https://pdfexpert.com/) - Fast, robust and beautiful PDF editor
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### 有道云笔记
+#### [有道云笔记](http://note.youdao.com/)
 
 ![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### MarkEditor
+#### [MarkEditor](https://www.markeditor.com/?from=1.0) - 好的写作体验，更好的效率利器
 
 ![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
@@ -408,3 +408,9 @@
 * wget
 
 * wifi-password
+
+## 相关
+
+* [nikitavoloboev/my-mac-os](https://github.com/nikitavoloboev/my-mac-os) 
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+* [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
