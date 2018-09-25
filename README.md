@@ -63,350 +63,333 @@
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monition for your menubar 
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Bartender 3](https://www.macbartender.com) - Organize your menu bar icons
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [CLeanMyMac 3](https://cleanmymac.com) - Cleaner.Faster.More productive
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Gemini 2](https://macpaw.com/gemini) - The intelligent duplicate file finder
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [iHosts](https://github.com/toolinbox/iHosts) - iHosts is perfect for editing /etc/hosts on Mac OS X
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [SwitchHosts!](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [Cakebrew](https://www.cakebrew.com) - The Mac App for Homebrew
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 ---
 ### 实用工具
 
 #### [Lantern](https://github.com/getlantern/lantern) - Science and the Internet
 
-![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
+
 
 #### [BetterZip 4](https://www.macitbetter.com) - the next generation of archiving
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 ---
 ### 邮件软件
 
 #### [Spark](https://sparkmailapp.com) - The Future of Email
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [Thunderbird](https://www.thunderbird.net/zh-CN/) - Mozilla Thunderbird是由Mozilla浏览器的邮件功能部件所改造的邮件工具
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 ---
 ### 社交通信
 
-#### QQ
-
-#### 微信
-
 #### [Tweetbot](https://tapbots.com/tweetbot/mac/) - Tweetbot is an award-winnig, full-featured Twitter client for the Mac
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Maipo](http://weiboformac.sinaapp.com) - Maipo for Weibo
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 ---
 ### 影音娱乐
 
-#### 腾讯视频
-
-#### 爱奇艺
-
 #### [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### 网易云音乐
 
 ---
 ### 开发工具
 
 #### [Visual Studio Code](https://code.visualstudio.com) - Code editing. Redefined. Free. Open source. Runs everywhere
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [CodeRunner 2](https://coderunnerapp.com) - An advanced, highly flexible, and easy-to-use **programming editor for your Mac**
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 ---
 ### 开发辅助工具
 
 #### [TextLab](http://textlab-app.com) - Developer's Swiss Army Knife
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### Google Chrome
 
-#### Firefox Developer Edition
+#### [Google Chrome](https://www.google.cn/chrome/) - 一款快速、简单且安全的浏览器，适合在所有设备上使用
+
+
+#### [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - fast performance, and the development tools
+
 
 #### [Reggy](http://reggyapp.com) - the open-source OS X regular expression tester/viewer
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [DiffMerge](http://www.sourcegear.com/diffmerge/) - An application to visually compare and merge files on Windows, OS X and Linux
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [SnippetsLab](http://www.renfei.org/snippets-lab/) - An easy-to-use code snippets manager
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Dash](https://kapeli.com/dash) - Indispensable masterpiece for developers
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [ndm](https://github.com/720kb/ndm) - npm desktop manager
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
 ---
 ### 数据库管理工具
 
-#### DataGrip
+#### [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool
 
-#### Medis
 
-#### MongoDB Compass
+
+#### [Medis](https://itunes.apple.com/cn/app/medis-gui-for-redis/id1063631769?mt=12) - Medis - GUI for Redis
+
+
+
+#### [MongoDB Compass](https://www.mongodb.com/products/compass) - The easiest way to explore and manipulate your MongoDB date
+
+
 
 ---
 ### 文本编辑
 
 #### [Macvim](http://macvim-dev.github.io/macvim/) - Vim - the text editor - for Mac OS X
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### Textmate
 
 #### [Sublime Text 3](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 ---
 ### 服务器管理
 
-#### Parallels Desktop
+#### [Parallels Desktop](https://www.parallels.com/) - The fastest, easiest, and most powerful application for running Windows
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
 #### [Termius](http://www.termius.com) - A portable server management system that works for you in any situation
 
+
 #### [Filezilla](https://filezilla-project.org) - The free FTP solution
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### Docker
+#### [Docker](https://www.docker.com/) - Build, Manage and Secure Your Apps Anywhere
 
 ---
 ### 版本控制
 
 #### [Tower](https://www.git-tower.com) - Build Better Software
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### Cornerstone
+#### [Cornerstone](https://cornerstone.assembla.com/) - The ultimate Subversion client
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
 ---
 ### 网络工具
 
 #### [Postman](https://www.getpostman.com/) - Developers use Postman to build modern software for the API-first world
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
 #### [SoapUI](https://www.soapui.org/) - The Most Advanced REST & SOAP Testing Tool in the World
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
 ---
 ### 生产力工具
 
 #### [Alfred 3](https://www.alfredapp.com) - An award-winning app for Mac OS X which is more productive with custom actions to control your Mac.
 
-![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
 
-#### [CmdTab](http://www.yingdev.com/projects/cmdtap) - 任务切换器增强 for Mac
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+#### [CmdTab](http://www.yingdev.com/projects/cmdtap) - 任务切换增强工具
+
+
 
 #### [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?l=en&mt=12) - Opens a terminal window to the current directory in Finder
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [Moom](https://manytricks.com/moom/) - Move and zoom windows
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Timing](https://timingapp.com) - Time Tracking Sucks
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Popclip](https://pilotmoon.com/popclip/) - PopClip appers when you select text with your mouse on your Mac
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [1Password](https://1password.com) - Go ahead. Forget your passwords
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Default Folder X](https://www.stclairsoft.com) - 
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [iTerm2](https://www.iterm2.com) - iTerm2 is a replacement for Terminal and the successor to iTerm
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [SmoothScroll](https://www.smoothscroll.net/mac/) - SmoothScroll will give your mouse wheel (Finder, Safari, Chrome, etc.) buttery smooth scrolling
 
-![pay](https://img.shields.io/badge/money-pay-red.svg)
+
 
 ---
 ### 阅读写作
 
 #### Kindle
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [BookReader](https://icecreamapps.com/Ebook-Reader/) - one of the best EPUB readers
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [Reeder](http://reederapp.com/mac/) - A news reader for Feedbin, Feedly, Feed Wrangler etc.
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [PDF Expert](https://pdfexpert.com/) - Fast, robust and beautiful PDF editor
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 #### [有道云笔记](http://note.youdao.com/)
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [MarkEditor](https://www.markeditor.com/?from=1.0) - 好的写作体验，更好的效率利器
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
 
 ---
 ### 思维脑图
 
 #### [幕布](https://mubu.com) - 极简大纲笔记 | 一键生成思维导图 
 
-![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
 
-#### MindMater
+
+#### [XMind](https://www.xmind.net/) - Amazing brainstorming and mind mapping tool
+
 
 ---
 ### 项目管理
 
-#### Trello
+#### [Trello](https://trello.com/) - 完全免费，灵活性高，可视化，和任何人一起管理任何事情
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### OmniPlan
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+#### [OmniPlan](https://www.omnigroup.com/omniplan/) - Project planning made painless
+
+
 
 ---
 ### 效率日程
 
-#### OmniFocus
+#### [OmniFocus](https://www.omnigroup.com/omnifocus/) - Fresh and familiar design for the trusted, gold standard to‑do app
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### Fantastical 2
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+#### [Fantastical 2](https://flexibits.com/fantastical) - The calendar app you won't be able to live without
+
+
 
 ---
 ### 截图录屏
 
 #### [Snip](http://snip.qq.com) - 简单高效的截图工具，支持滚动截图
 
-![free](https://img.shields.io/badge/money-free-green.svg)
+
 
 #### [Kap](https://getkap.co) - An open-source screen recorder built with web technology
 
-![free](https://img.shields.io/badge/money-free-green.svg)
 
-#### ScreenFlow
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+#### [ScreenFlow](https://www.telestream.net/screenflow/) - video editing and screen recording 
+
+
 
 ---
 ### 图片处理
 
-#### Eagle
+#### [Eagle](https://eagle.cool/) - 轻松管理大量图片素材，满足图片素材「收藏、整理、查找」的各种场景
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
 
-#### Zoommy
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+#### [Zoommy](http://zoommyapp.com/) - helps you find awesome free stock photos for your creative product or inspiration
 
-#### IconJar
 
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
+
+#### [IconJar](https://geticonjar.com/) - Store all your icons in one place, just a click away
+
+ 
 
 ---
 ### 下载工具
 
 #### [Free Download Manager](https://www.freedownloadmanager.org) - It is a powerful modern download accelerator and organizer for Windows and Mac
 
-![free](https://img.shields.io/badge/money-free-green.svg)
-
-#### 迅雷
 
 ---
 ### 网络存储
 
-#### 坚果云
+#### [坚果云](https://www.jianguoyun.com/) - 任何设备，随时随地实现文件共享
 
-![free](https://img.shields.io/badge/money-free-green.svg)
-
-#### 百度网盘
-
-![free](https://img.shields.io/badge/money-free-green.svg)
 
 
 ## 命令行工具
 
-* ccat
+* [ccat](https://github.com/jingweno/ccat) - ccat is the colorizing cat
 
-* exa
+* [exa](https://github.com/ogham/exa) - exa is a replacement for ls written in Rust
 
-* httpie
+* [httpie](https://github.com/jakubroztocil/httpie) - HTTPie: a CLI, cURL-like tool for humans
 
-* m-cli
+* [m-cli](https://github.com/rgcr/m-cli) - Swiss Army Knife for macOS
 
-* readline
+* [readline](https://github.com/chzyer/readline) - A powerful readline library
 
-* wget
+* [wget](http://rudix.org/packages/wget.html) - 网络请求命令行工具
 
-* wifi-password
+* [wifi-password](https://github.com/rauchg/wifi-password) - People ask you for the Wi-Fi password. Answer quickly
 
 ## 相关
 
