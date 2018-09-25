@@ -2,7 +2,8 @@
 
 ![license](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![plantform](https://img.shields.io/badge/plantform-mac-ff69b4.svg)
-![apps](https://img.shields.io/badge/apps-81-yellowgreen.svg)
+![apps](https://img.shields.io/badge/apps-67-yellowgreen.svg)
+![commands](https://img.shields.io/badge/apps-7-green.svg)
 
 > 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法
 
@@ -59,7 +60,7 @@
 
 ## 应用
 
-### 系统管理
+### 系统管理
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac System monition for your menubar 
 
