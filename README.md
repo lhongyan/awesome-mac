@@ -115,11 +115,11 @@
 ---
 ### 社交通信
 
-#### [Tweetbot](https://tapbots.com/tweetbot/mac/) - Tweetbot is an award-winnig, full-featured Twitter client for the Mac
+#### [Tweetbot](https://tapbots.com/tweetbot/mac/) - Twitter client
 
 
 
-#### [Maipo](http://weiboformac.sinaapp.com) - Maipo for Weibo
+#### [Maipo](http://weiboformac.sinaapp.com) - Weibo client
 
 
 
