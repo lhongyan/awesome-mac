@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/packagist/l/doctrine/orm.svg)
 ![plantform](https://img.shields.io/badge/plantform-mac-ff69b4.svg)
 ![apps](https://img.shields.io/badge/apps-67-yellowgreen.svg)
-![command-lines](https://img.shields.io/badge/command-lines-7-green.svg)
+![command-lines](https://img.shields.io/badge/commands-7-green.svg)
 
 > 列举在日常工作、生活中使用到的应用，包括应用的配置和使用方法
 
