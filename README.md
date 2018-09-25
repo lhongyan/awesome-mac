@@ -262,7 +262,7 @@
 
 
 
-#### [Default Folder X](https://www.stclairsoft.com) - 
+#### [Default Folder X](https://www.stclairsoft.com) - Make your Open and Save dialogs work as quickly as you do
 
 
 
@@ -277,7 +277,7 @@
 ---
 ### 阅读写作
 
-#### Kindle
+#### [Kindle](https://itunes.apple.com/cn/app/id302584613)
 
 
 
