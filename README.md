@@ -9,21 +9,6 @@
 
 ![my-awesome-mac-os](./imgs/launchpad.png)
 
-## 说明
-
-![free](https://img.shields.io/badge/money-free-green.svg) 
-
-* 免费或个人免费
-
-![limit](https://img.shields.io/badge/money-limit-yellow.svg) 
-
-* 部分功能免费，高级功能收费
-
-![pay](https://img.shields.io/badge/money-pay-red.svg) 
-
-* 收费
-
-
 ## 目录
 
 * 应用
